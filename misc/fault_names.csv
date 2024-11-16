@@ -1,0 +1,58 @@
+fullName,overrideName,databaseFieldPrefix,include
+Eyesight,Eyesight,EYESIGHT,TRUE
+Highway Code,Highway Code,H_CODE_SAFETY,FALSE
+Controlled stop - Promptness,Emergency stop,CONTROL_STOP_PROMPT,TRUE
+Controlled stop - Control,Emergency stop - Control,CONTROL_STOP_CONTROL,FALSE
+Reverse left - control,,REV_LEFT_TRAIL_CONT,FALSE
+Reverse left - observation,,REV_LEFT_TRAIL_OBSERV,FALSE
+Reverse right - control,,REV_RIGHT_TRAIL_CONT,TRUE
+Reverse right - observation,,REV_RIGHT_TRAIL_OBSERV,TRUE
+Parallel park - control,,REV_PARK_ROAD_CONTROL,TRUE
+Parallel park - observation,,REV_PARK_ROAD_OBSERV,TRUE
+Reverse bay park - control,,REV_PARK_CPARK_CONTROL,TRUE
+Reverse bay park - observation,,REV_PARK_CPARK_OBSERVE,TRUE
+Turn in road - control,,TURN_IN_ROAD_CONT,FALSE
+Turn in road - observation,,TURN_IN_ROAD_OBSERV,FALSE
+Vehicle checks,,VEHICLE_CHECKS,TRUE
+Taxi/Forward Park cont,Forward bay park - control,TAXI_MAN_CONTROL,TRUE
+Taxi/Forward Park obs,Forward bay park - observation,TAXI_MAN_OBSERV,TRUE
+Uncouple / recouple,,,FALSE
+Precautions,,PRECAUTIONS,TRUE
+Control - accelerator,,CONTROL_ACC,TRUE
+Control - clutch,,CONTROL_CLUTCH,TRUE
+Control - gears,,CONTROL_GEARS,TRUE
+Control - Footbrake,,CONTROL_FOOTBRAKE,TRUE
+Control - parking brake,,CONTROL_PARK,TRUE
+Control - steering,,CONTROL_STEERING,TRUE
+Move off - safely,,MOVE_OFF_SAFETY,TRUE
+Move off - control,,MOVE_OFF_CONTROL,TRUE
+Mirrors - signalling,,MIRRORS_MC_REAR_SIG,TRUE
+Mirrors - change direction,,MIRRORS_MC_REAR_DIR,TRUE
+Mirrors - change speed,,MIRRORS_MC_REAR_SPE,TRUE
+Signals - necessary,,SIGNALS_NECESSARY,TRUE
+Signals - correctly,,SIGNALS_CORRECTLY,TRUE
+Signals - timed,,SIGNALS_TIMED,TRUE
+Clearance / obstructions,,CLEARANCE_OBSTRUCT,TRUE
+Response to signs - traffic signs,Response to traffic signs,RESPONSE_TRAF_SIGNS,TRUE
+Response to signs - road markings,Response to road markings,RESPONSE_ROAD_MARK,TRUE
+Response to signs - traffic lights,Response to traffic lights,RESPONSE_TRAF_LIGHT,TRUE
+Response to signs - traffic controllers,Response to traffic controllers,RESPONSE_TRAF_CONT,TRUE
+Response to signs - other road users,Response to road users,RESPONSE_OTHER,TRUE
+Use of speed,Use of speed (too fast),USE_OF_SPEED,TRUE
+Following distance,,FOLLOWING_DISTANCE,TRUE
+Maintain progress - speed,Progress - speed (too slow),MAINTAIN_PROG_SPEED,TRUE
+Maintain progress - undue hesitation,Progress - undue hesitation,MAINTAIN_PROG_HES,TRUE
+Junctions - approach speed,,JUNCTIONS_SPEED,TRUE
+Junctions - observation,,JUNCTIONS_OBSERV,TRUE
+Junctions - turning right,,JUNCTIONS_TURN_RIGHT,TRUE
+Junctions - turning left,,JUNCTIONS_TURN_LEFT,TRUE
+Junctions - cutting corners,,JUNCTIONS_TURN_CUT,TRUE
+Judgement - overtaking,,JUDGEMENT_OVER,TRUE
+Judgement - meeting,,JUDGEMENT_MEET,TRUE
+Judgement - crossing,,JUDGEMENT_CROSS,TRUE
+Positioning - normal driving,,POSITIONING_NORMAL,TRUE
+Positioning - lane discipline,,POSITIONING_LANE,TRUE
+Pedestrian crossing,,PEDESTRIAN_CROSSING,TRUE
+Position - normal stops,,POSITION_STOPS,TRUE
+Awareness/planning,Awareness / planning,AWARENESS_PLAN,TRUE
+Ancillary controls,,ANCILLARY_CONTROLS,TRUE
